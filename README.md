@@ -3,9 +3,9 @@ Link to Homestayz :- https://homestayz.vercel.app/
 Link to its Github :- https://github.com/ayushmangarg2003/Homestayz         
 
 ## Tech Used
-Language: Python
-Model : Gemini-Pro
-Framework : Langchain
+Language: Python         
+Model : Gemini-Pro         
+Framework : Langchain         
 
 
 ## Requirements
