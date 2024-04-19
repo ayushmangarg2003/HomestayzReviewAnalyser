@@ -2,20 +2,20 @@
 Link to Homestayz :- https://homestayz.vercel.app/         
 Link to its Github :- https://github.com/ayushmangarg2003/Homestayz         
 
-# Tech Used
+## Tech Used
 Language: Python
 Model : Gemini-Pro
 Framework : Langchain
 
 
-# Requirements
+## Requirements
 pymongo   
 langchain==0.0.184   
 python-dotenv==1.0.0   
 huggingface-hub==0.14.1   
 google-generativeai   
 
-# Steps To Run      
+## Steps To Run      
 1. Create Environment using :-        
    conda create -p venv python=3.10 -y      
 2. Activate Environment        
